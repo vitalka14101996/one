@@ -72,10 +72,6 @@ Market Making Bot is a program that automatically places buy and sell orders on 
 - ⚖️ Force Buy and Sell.
 - 🔫Triggers on Volumes: Trade only if the volume in the past 24 hours, 6 hours, or 1 hour is above or below a specific threshold.
 
-## Introduction
-
-Market Making Bot is a program that automatically places buy and sell orders on cryptocurrency exchanges, creating liquidity and allowing other market participants to trade.
-
 ### Intuitive Interface
 
 User-friendly interface that doesn't require in-depth knowledge of DeFi.
